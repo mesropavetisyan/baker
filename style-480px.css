@@ -1,0 +1,22 @@
+.top-buttons {
+    display: none;
+}
+
+.top-buttons-480px {
+    display: inline;
+}
+
+.active-btn-480px {
+    margin: 10px 0;
+    border-radius: 15px;
+    background: #be9e21;
+    padding: 5px;
+}
+
+.btn-480px {
+    border-radius: 15px;
+    padding: 5px;
+    border: 1px solid #be9e21;
+    transition: 0.3s;
+    color: #be9e21;
+}
